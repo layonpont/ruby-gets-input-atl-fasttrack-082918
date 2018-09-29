@@ -3,6 +3,3 @@ def greeting(name)
 end
 
 
-x = get.chomp()
-
-greeting(x)
